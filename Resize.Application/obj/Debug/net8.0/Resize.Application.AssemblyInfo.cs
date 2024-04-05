@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Resize.API")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Resize.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67fd980ff594defd8dcd8d7671cd318d5b08b3e3")]
-[assembly: System.Reflection.AssemblyProductAttribute("Resize.API")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Resize.API")]
+[assembly: System.Reflection.AssemblyProductAttribute("Resize.Application")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Resize.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
