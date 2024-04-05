@@ -1,0 +1,12 @@
+C:\projetos_github\resizeAPI\Resize.Domain\bin\Debug\net8.0\Resize.Domain.deps.json
+C:\projetos_github\resizeAPI\Resize.Domain\bin\Debug\net8.0\Resize.Domain.dll
+C:\projetos_github\resizeAPI\Resize.Domain\bin\Debug\net8.0\Resize.Domain.pdb
+C:\projetos_github\resizeAPI\Resize.Domain\obj\Debug\net8.0\Resize.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos_github\resizeAPI\Resize.Domain\obj\Debug\net8.0\Resize.Domain.AssemblyInfoInputs.cache
+C:\projetos_github\resizeAPI\Resize.Domain\obj\Debug\net8.0\Resize.Domain.AssemblyInfo.cs
+C:\projetos_github\resizeAPI\Resize.Domain\obj\Debug\net8.0\Resize.Domain.csproj.CoreCompileInputs.cache
+C:\projetos_github\resizeAPI\Resize.Domain\obj\Debug\net8.0\Resize.Domain.sourcelink.json
+C:\projetos_github\resizeAPI\Resize.Domain\obj\Debug\net8.0\Resize.Domain.dll
+C:\projetos_github\resizeAPI\Resize.Domain\obj\Debug\net8.0\refint\Resize.Domain.dll
+C:\projetos_github\resizeAPI\Resize.Domain\obj\Debug\net8.0\Resize.Domain.pdb
+C:\projetos_github\resizeAPI\Resize.Domain\obj\Debug\net8.0\ref\Resize.Domain.dll

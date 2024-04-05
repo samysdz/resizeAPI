@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Resize.API/1.0.0": {
+        "dependencies": {
+          "Resize.Application": "1.0.0"
+        },
+        "runtime": {
+          "Resize.API.dll": {}
+        }
+      },
+      "Resize.Application/1.0.0": {
+        "dependencies": {
+          "Resize.Data": "1.0.0"
+        },
+        "runtime": {
+          "Resize.Application.dll": {}
+        }
+      },
+      "Resize.Data/1.0.0": {
+        "dependencies": {
+          "Resize.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Resize.Data.dll": {}
+        }
+      },
+      "Resize.Domain/1.0.0": {
+        "runtime": {
+          "Resize.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Resize.API/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Resize.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Resize.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Resize.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

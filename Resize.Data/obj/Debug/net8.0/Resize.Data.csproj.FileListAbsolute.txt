@@ -1,0 +1,16 @@
+C:\projetos_github\resizeAPI\Resize.Data\bin\Debug\net8.0\Resize.Data.deps.json
+C:\projetos_github\resizeAPI\Resize.Data\bin\Debug\net8.0\Resize.Data.dll
+C:\projetos_github\resizeAPI\Resize.Data\bin\Debug\net8.0\Resize.Data.pdb
+C:\projetos_github\resizeAPI\Resize.Data\bin\Debug\net8.0\Resize.Domain.dll
+C:\projetos_github\resizeAPI\Resize.Data\bin\Debug\net8.0\Resize.Domain.pdb
+C:\projetos_github\resizeAPI\Resize.Data\obj\Debug\net8.0\Resize.Data.csproj.AssemblyReference.cache
+C:\projetos_github\resizeAPI\Resize.Data\obj\Debug\net8.0\Resize.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos_github\resizeAPI\Resize.Data\obj\Debug\net8.0\Resize.Data.AssemblyInfoInputs.cache
+C:\projetos_github\resizeAPI\Resize.Data\obj\Debug\net8.0\Resize.Data.AssemblyInfo.cs
+C:\projetos_github\resizeAPI\Resize.Data\obj\Debug\net8.0\Resize.Data.csproj.CoreCompileInputs.cache
+C:\projetos_github\resizeAPI\Resize.Data\obj\Debug\net8.0\Resize.Data.sourcelink.json
+C:\projetos_github\resizeAPI\Resize.Data\obj\Debug\net8.0\Resize.D.D170764A.Up2Date
+C:\projetos_github\resizeAPI\Resize.Data\obj\Debug\net8.0\Resize.Data.dll
+C:\projetos_github\resizeAPI\Resize.Data\obj\Debug\net8.0\refint\Resize.Data.dll
+C:\projetos_github\resizeAPI\Resize.Data\obj\Debug\net8.0\Resize.Data.pdb
+C:\projetos_github\resizeAPI\Resize.Data\obj\Debug\net8.0\ref\Resize.Data.dll
