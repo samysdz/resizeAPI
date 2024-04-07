@@ -9,7 +9,7 @@ namespace Resize.Application
 {
     public interface IResizeApplication
     {
-        Task<Dimensions> InitialDimentions(string info);
+        Task<Dimensions> InitialDimentions();
         Task<Dimensions> UpdateDimentions(string info);
     }
 }

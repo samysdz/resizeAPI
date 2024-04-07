@@ -14,15 +14,29 @@ namespace Resize.API.Controllers
         }
 
         [HttpGet("InitialDimentions")]
-        public async Task<Dimensions> InitialDimentions([FromQuery] string info)
+        public async Task<ActionResult<Dimensions>> InitialDimentions()
         {
-            return await _resizeApplication.InitialDimentions(info);
+            try
+            {
+                return Ok(await _resizeApplication.InitialDimentions());
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
 
         [HttpPost("UpdateDimensions")]
-        public async Task<Dimensions> UpdateDimensions([FromQuery] string info)
+        public async Task<ActionResult<Dimensions>> UpdateDimensions([FromQuery] string info)
         {
-            return await _resizeApplication.UpdateDimentions(info);
+            try
+            {
+                return Ok(await _resizeApplication.UpdateDimentions(info));
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
     }
 }

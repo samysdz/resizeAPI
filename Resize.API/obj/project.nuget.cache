@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1C/GVxyW+rIIv1nU3l3xZy/kUto9uqjgh7W1gDT9e1jEqVyaK7NyPjgud3W22+h1TLd1ZG+/nYDwMXDvSw8dpw==",
+  "dgSpecHash": "fZj5HWJXg6GiYJIm196HwZvephS6UGaxly8hnyjGSvCpV4vBmP71BjmDtuYTb5zoBi+vfOn0Y0YrcxkByq4pkg==",
   "success": true,
   "projectFilePath": "C:\\projetos_github\\resizeAPI\\Resize.API\\Resize.API.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\cadud\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
