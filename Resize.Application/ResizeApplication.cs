@@ -7,7 +7,8 @@ namespace Resize.Application
 {
     public class ResizeApplication : IResizeApplication
     {
-        private readonly string _jsonFilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Data/dimensions.json");
+        private readonly string _jsonFilePath = Path.Combine(Directory.GetParent(AppDomain.CurrentDomain.BaseDirectory).Parent.Parent.Parent.Parent.FullName, Path.Combine("Resize.Data", "dimensions.json"));
+        //private readonly string _jsonFilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Data/dimensions.json");
         public async Task<Dimensions> InitialDimentions()
         {
             try
@@ -26,7 +27,7 @@ namespace Resize.Application
             }
         }
 
-        public async Task<Dimensions> UpdateDimentions(string info)
+        public async Task<Dimensions> UpdateDimentions(Dimensions info)
         {
             try
             {

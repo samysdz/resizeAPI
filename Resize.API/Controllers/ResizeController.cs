@@ -4,6 +4,8 @@ using Resize.Domain;
 
 namespace Resize.API.Controllers
 {
+    [ApiController]
+    [Route("[controller]")]
     public class ResizeController : ControllerBase
     {
         private readonly IResizeApplication _resizeApplication;
@@ -27,7 +29,7 @@ namespace Resize.API.Controllers
         }
 
         [HttpPost("UpdateDimensions")]
-        public async Task<ActionResult<Dimensions>> UpdateDimensions([FromQuery] string info)
+        public async Task<ActionResult<Dimensions>> UpdateDimensions([FromBody] Dimensions info)
         {
             try
             {

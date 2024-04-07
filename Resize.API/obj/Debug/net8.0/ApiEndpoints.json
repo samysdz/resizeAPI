@@ -1,0 +1,48 @@
+[
+  {
+    "ContainingType": "Resize.API.Controllers.ResizeController",
+    "Method": "InitialDimentions",
+    "RelativePath": "Resize/InitialDimentions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Resize.Domain.Dimensions",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Resize.API.Controllers.ResizeController",
+    "Method": "UpdateDimensions",
+    "RelativePath": "Resize/UpdateDimensions",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "info",
+        "Type": "Resize.Domain.Dimensions",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Resize.Domain.Dimensions",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

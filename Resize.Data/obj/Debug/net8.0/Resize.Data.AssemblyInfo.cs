@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Resize.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4daccd845d4486209d2652f58bc181bc733d2184")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e51f78c0c01865205e5e7951a8bc3e78e774b0a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Resize.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Resize.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

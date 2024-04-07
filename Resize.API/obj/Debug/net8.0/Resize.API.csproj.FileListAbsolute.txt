@@ -4,7 +4,11 @@ C:\projetos_github\resizeAPI\Resize.API\bin\Debug\net8.0\Resize.API.deps.json
 C:\projetos_github\resizeAPI\Resize.API\bin\Debug\net8.0\Resize.API.runtimeconfig.json
 C:\projetos_github\resizeAPI\Resize.API\bin\Debug\net8.0\Resize.API.dll
 C:\projetos_github\resizeAPI\Resize.API\bin\Debug\net8.0\Resize.API.pdb
+C:\projetos_github\resizeAPI\Resize.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\projetos_github\resizeAPI\Resize.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\projetos_github\resizeAPI\Resize.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\projetos_github\resizeAPI\Resize.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\projetos_github\resizeAPI\Resize.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\projetos_github\resizeAPI\Resize.API\bin\Debug\net8.0\Resize.Application.dll
 C:\projetos_github\resizeAPI\Resize.API\bin\Debug\net8.0\Resize.Data.dll
 C:\projetos_github\resizeAPI\Resize.API\bin\Debug\net8.0\Resize.Domain.dll
@@ -16,6 +20,7 @@ C:\projetos_github\resizeAPI\Resize.API\obj\Debug\net8.0\Resize.API.GeneratedMSB
 C:\projetos_github\resizeAPI\Resize.API\obj\Debug\net8.0\Resize.API.AssemblyInfoInputs.cache
 C:\projetos_github\resizeAPI\Resize.API\obj\Debug\net8.0\Resize.API.AssemblyInfo.cs
 C:\projetos_github\resizeAPI\Resize.API\obj\Debug\net8.0\Resize.API.csproj.CoreCompileInputs.cache
+C:\projetos_github\resizeAPI\Resize.API\obj\Debug\net8.0\Resize.API.MvcApplicationPartsAssemblyInfo.cs
 C:\projetos_github\resizeAPI\Resize.API\obj\Debug\net8.0\Resize.API.MvcApplicationPartsAssemblyInfo.cache
 C:\projetos_github\resizeAPI\Resize.API\obj\Debug\net8.0\Resize.API.sourcelink.json
 C:\projetos_github\resizeAPI\Resize.API\obj\Debug\net8.0\staticwebassets.build.json
